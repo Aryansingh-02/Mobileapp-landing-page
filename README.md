@@ -4,7 +4,9 @@ This is a mobile app landing page designed for a finance application. It showcas
 
 Features:
 Hero Section: Engaging introduction with a catchy headline and call-to-action buttons.
+
 Features Section: Highlighting the main features of the app with descriptive icons and text.
+
 Testimonials Section: User feedback and testimonials to build trust and credibility.
 Pricing Plans: Subscription details or pricing options for users to choose from.
 Contact Form: Allows users to get in touch with the app developers for support or queries.
