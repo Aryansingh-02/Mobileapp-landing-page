@@ -34,11 +34,10 @@ Host the landing page on your server or deploy it using platforms like GitHub Pa
 
 Technologies Used:
 
-HTML5
-CSS3 (with Flexbox and CSS Grid)
+HTML5, 
+CSS3 (with Flexbox and CSS Grid), 
 JavaScript (for interactivity, if required)
-Credits:
-Design inspired by Figma Community.
+
 Icons from Font Awesome.
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
